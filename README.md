@@ -18,7 +18,7 @@ A final-year engineering project to monitor health and location in real-time usi
 - Spring Boot (Java)
 - Flask, Python, TensorFlow
 - HTML/CSS Dashboard
-- MySQL | WebSocket | Firebase (optional)
+- MySQL | WebSocket 
 
 # Project Structure
 - `backend-springboot/` → REST APIs and DB
