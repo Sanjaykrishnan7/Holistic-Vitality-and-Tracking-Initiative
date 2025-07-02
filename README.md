@@ -3,7 +3,7 @@ Under Graduation Project
 
 # Holistic Vitality and Tracking System
 
-A final-year engineering project to monitor soldier health and location in real-time using embedded systems, machine learning, and web technologies.
+A final-year engineering project to monitor health and location in real-time using embedded systems, machine learning, and web technologies.
 
 # Key Features
 - Real-time GPS and health parameter tracking (heart rate, temperature, motion)
