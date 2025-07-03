@@ -16,7 +16,7 @@ A final-year engineering project to monitor health and location in real-time usi
 # Tech Stack
 - ESP32 | Arduino IDE
 - Spring Boot (Java)
-- Flask, Python, TensorFlow
+- Flask, Python
 - HTML/CSS Dashboard
 - MySQL | WebSocket 
 
@@ -26,5 +26,4 @@ A final-year engineering project to monitor health and location in real-time usi
 - `Esp32-code/` → Firmware for sensors
 - `dashboard-frontend/` → Web interface
 
-## 📜 License
 
