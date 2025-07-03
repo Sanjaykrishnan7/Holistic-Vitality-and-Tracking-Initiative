@@ -22,8 +22,8 @@ A final-year engineering project to monitor health and location in real-time usi
 
 # Project Structure
 - `backend-springboot/` → REST APIs and DB
-- `ml-model-flask/` → Trained ML model and server
-- `esp32-code/` → Firmware for sensors
+- `Mlmodel-flask/` → Trained ML model and server
+- `Esp32-code/` → Firmware for sensors
 - `dashboard-frontend/` → Web interface
 
 ## 📜 License
